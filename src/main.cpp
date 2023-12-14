@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include "List/Graph/Edge.h"
+#include "List/Graph/EdgeList.h"
 
 using namespace std;
 
@@ -11,6 +13,7 @@ int main() {
         cout << "Error opening the file" << endl;
         return 1;
     }*/
+
     Edge *edge = new Edge;
     EdgeList *edgeList = new EdgeList();
     edgeList->insert(new Edge());
@@ -32,6 +35,8 @@ int main() {
             arr_four->append(arr[i]);
         }
     }
+
+//    std::cout << "Hello world!";
 
     return 0;
 }
