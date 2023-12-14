@@ -1,0 +1,3 @@
+C:/Users/TEMP.OZUN/CLionProjects/graph-puzzle-game-onurozkara/cmake-build-debug/CMakeFiles/graph-puzzle-game-onurozkara.dir
+C:/Users/TEMP.OZUN/CLionProjects/graph-puzzle-game-onurozkara/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TEMP.OZUN/CLionProjects/graph-puzzle-game-onurozkara/cmake-build-debug/CMakeFiles/rebuild_cache.dir
